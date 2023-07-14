@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @stefani-signore
-- 👀 I’m interested in Data Science and Software Development.
+- 👀 I’m interested in Software Development and Data Science.
 <br>
-:computer: Currently working at Proradis as a Trainee, at the moment on a 4 months journey as a Software Developer.
-<br/ >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Some of the hard skills required at my current job:
+:computer: Some of the hard skills required at my last job as a Systems Development Analyst:
 <br/ >&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: C#
 <br/ >&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: HTML
 <br/ >&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: CSS
