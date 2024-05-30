@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stefani-signore
-- 👀 I’m interested in Software Development and Data Science.
+- 👀 I’m interested in Software Development.
 <br>
 :computer: Some of the hard skills required at my last job as a Systems Development Analyst:
 <br/ >&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: C#
