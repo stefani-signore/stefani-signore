@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stefani-signore
 - 👀 I’m interested in Software Development.
 <br>
-:computer: Some of the hard skills required at my last job as a Systems Development Analyst:
+:computer: Some of the hard skills required at my current job as a Systems Development Analyst:
 <br/ >&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: C#
 <br/ >&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: HTML
 <br/ >&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: CSS
