@@ -46,7 +46,7 @@
 ## 🚀 Experiência na prática
 + Desenvolvimento de sistemas/APIs
 + Investigação de incidentes (war rooms)
-+ Análise e desenvolvimento de integrações (APIGee)
++ Análise e desenvolvimento de integrações (Apigee)
 + Contato com deploy de aplicações e pipelines de CI/CD
 + Integração entre serviços
 + Participação na criação da plataforma interna de geração de templates
