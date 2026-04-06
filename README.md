@@ -6,7 +6,6 @@
 
 + Desenvolvedora backend com foco em APIs, cloud e microsserviços.
 + Experiência com sistemas distribuídos, investigação de incidentes e análise de integrações.
-+ Não paro no sintoma — vou até o problema real. 😎
 + Não tenho medo de pegar algo que nunca vi antes e fazer funcionar (apenas me dê um tempinho para raciocinar, ok? 😝)
 + Adoro participar de uma reunião de arquitetura. Sou eu quem desenho a arquitetura? Muito provavelmente não, mas ter uma noção do todo e discutir soluções com meus arquitetos sempre me esclarece o objetivo a ser cumprido. 🏁
 + Experiência em ambientes com pouca observabilidade (aka sistemas sem documentação alguma, sad but true 😆)
@@ -69,7 +68,7 @@
 
 ```bash
 > Regra: Uma vez meu arquiteto, sempre meu arquiteto 💚
-> Eu pergunto mesmo, sinto muito.
+> Eu pergunto mesmo, sinto muito 😎
 ```
 
 <!---
