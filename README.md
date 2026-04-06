@@ -58,8 +58,8 @@
 
 ```bash
 > Português  { nível: nativo }
-> Inglês     { nível: avançado/usuário independente Cambridge FCE B2 }
-> Italiano   { nível: avançado, já participei de projeto com madrelingue :it: }
+> Inglês     { nível: avançado } [Cambridge FCE B2]
+> Italiano   { nível: avançado } [experiência profissional com nativos]
 > Espanhol   { nível: intermediário }
 ```
 
