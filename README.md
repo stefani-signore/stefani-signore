@@ -50,6 +50,7 @@
 + Contato com deploy de aplicações e pipelines de CI/CD
 + Integração entre serviços
 + Participação na criação da plataforma interna de geração de templates
++ Desenvolvimento de fluxos no Postman (Flows) para automação e geração de massa de testes, otimizando a validação de integrações e reduzindo esforço manual. [x: Mágica 🧙 :x](https://www.postman.com/vtal-testeauto-repo/v-tal-testes-automatizados/flow/66e97a9fa874ef003d4a8fa3?sideView=agentMode) 
 
 <br/>
 
